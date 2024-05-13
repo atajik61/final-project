@@ -244,14 +244,14 @@ footer{
 		}
 		.home-matn{
 			font-size:15px;
-			top:0;
+			top:5px;
 }
 		.matn{
 			left:15%;
 		}
 		.box{
 			left:15%;
-			top:55%;
+			top:60%;
 		}
 		.row h1{
 			font-size:20px;
@@ -264,7 +264,7 @@ footer{
 		}
 		.service{
 			height:50%;
-			top:10%;
+			top:5%;
 		}
 		.matn{
 			background-color:rgba(0,0,0,.3);
